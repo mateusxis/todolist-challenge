@@ -127,3 +127,5 @@
 ~/Projects/todolist $ git add .
 ~/Projects/todolist $ git commit -m "feat(server): rails new"
 ```
+
+A descrição do desafio, requisitos funcionais e materiais de estudos podem ser encontrados na [wiki](https://github.com/gettcomex/todolist-challenge/wiki)
