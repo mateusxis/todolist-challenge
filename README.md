@@ -4,6 +4,8 @@
 
 ## 1. Criando a estrutura básica do desafio
 
+- Em caso de dúvida em alguma das etapas, a branch [guide-example](https://github.com/gettcomex/todolist-challenge/tree/guide-example) foi criada seguindo [cada etapa](https://github.com/gettcomex/todolist-challenge/commits/guide-example) descrita nesse tutorial.
+
 ### Criando o repositório
 
 ```bash
